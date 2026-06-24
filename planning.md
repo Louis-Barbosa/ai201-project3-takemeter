@@ -32,5 +32,3 @@ Example: "Do you jump around artists like crazy, or only your faves and then som
 For this project, Claude will specifically generating fake posts that sit as a boundary between the different labels. This means I will have it generate about 6 posts per label pairing for the model to end up using to learn the difference between the two labels. I might use an LLM to pre-label the posts before I verify, although I am leaning more towards simply labeling them myself only. 
 
 
-## Link to video: 
-
